@@ -1,7 +1,11 @@
 # 👋 Hi, I’m Espen Campbell
 
-I'm a Sales Operations & GTM Systems builder focused on lead routing, pipeline forecasting, and enablement strategy. I build tools that help revenue teams scale, stay aligned, and close faster.
+Sales Operations & GTM Systems builder specializing in CRM automation, pipeline forecasting, and sales enablement.  
+I design scalable sales infrastructure that reduces friction, increases rep productivity, and improves forecast accuracy.  
 
-This repo contains examples of projects that demonstrate my approach to RevOps, Sales Ops, and CRM automation.
+## 🔧 Featured Projects
+- [Lead Routing System](./lead-routing/lead-routing.md)
+- [Pipeline Dashboarding](./pipeline-dashboard/pipeline-dashboard.md)
+- [Sales Enablement Asset](./sales-enablement/enablement-guide.md)
 
-Feel free to reach out: espencampbell@gmail.com | [LinkedIn](https://www.linkedin.com/in/espencampbell/)
+📫 Connect with me: espencampbell@gmail.com | [LinkedIn](https://www.linkedin.com/in/espencampbell)
